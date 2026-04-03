@@ -5,6 +5,17 @@
 ## User settings
 xcuserdata/
 
+# Mac
+.DS_Store
+**/.DS_Store
+
+# Xcode Workspace User Data
+*.xcworkspace/xcuserdata/
+*.xcworkspace/
+
+# Eigene Dateien
+START_HERE.md
+
 ## Obj-C/Swift specific
 *.hmap
 
